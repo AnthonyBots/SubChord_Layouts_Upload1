@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("SubChord_Layouts"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bed1d11b33d06f71aec57d9145a1a95ccc0f8e4"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("SubChord_Layouts"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("SubChord_Layouts"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\notap\\source\\repos\\SubChord_Layouts\\SubChord_Layouts\\SubChord_Layouts.vbproj",
+      "projectUniqueName": "C:\\Users\\notap\\Documents\\GitHub\\SubChord_Layouts\\SubChord_Layouts\\SubChord_Layouts.vbproj",
       "projectName": "SubChord_Layouts",
-      "projectPath": "C:\\Users\\notap\\source\\repos\\SubChord_Layouts\\SubChord_Layouts\\SubChord_Layouts.vbproj",
+      "projectPath": "C:\\Users\\notap\\Documents\\GitHub\\SubChord_Layouts\\SubChord_Layouts\\SubChord_Layouts.vbproj",
       "packagesPath": "C:\\Users\\notap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\notap\\source\\repos\\SubChord_Layouts\\SubChord_Layouts\\obj\\",
+      "outputPath": "C:\\Users\\notap\\Documents\\GitHub\\SubChord_Layouts\\SubChord_Layouts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

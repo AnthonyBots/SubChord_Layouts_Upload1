@@ -38,12 +38,17 @@ Partial Class Form1
 		Button5 = New Button()
 		TextBox4 = New TextBox()
 		GroupBox1 = New GroupBox()
-		CheckBox1 = New CheckBox()
-		CheckBox2 = New CheckBox()
-		CheckBox3 = New CheckBox()
 		CheckBox4 = New CheckBox()
+		CheckBox3 = New CheckBox()
+		CheckBox2 = New CheckBox()
+		CheckBox1 = New CheckBox()
+		GroupBox2 = New GroupBox()
+		Button6 = New Button()
+		Button7 = New Button()
+		TextBox3 = New TextBox()
 		CType(DataGridView1, ComponentModel.ISupportInitialize).BeginInit()
 		GroupBox1.SuspendLayout()
+		GroupBox2.SuspendLayout()
 		SuspendLayout()
 		' 
 		' TextBox1
@@ -109,7 +114,7 @@ Partial Class Form1
 		' 
 		' Button2
 		' 
-		Button2.Location = New Point(291, 529)
+		Button2.Location = New Point(246, 500)
 		Button2.Name = "Button2"
 		Button2.Size = New Size(112, 29)
 		Button2.TabIndex = 2
@@ -118,7 +123,7 @@ Partial Class Form1
 		' 
 		' Button1
 		' 
-		Button1.Location = New Point(138, 529)
+		Button1.Location = New Point(93, 500)
 		Button1.Name = "Button1"
 		Button1.Size = New Size(113, 29)
 		Button1.TabIndex = 1
@@ -127,7 +132,7 @@ Partial Class Form1
 		' 
 		' Button3
 		' 
-		Button3.Location = New Point(437, 529)
+		Button3.Location = New Point(392, 500)
 		Button3.Name = "Button3"
 		Button3.Size = New Size(112, 29)
 		Button3.TabIndex = 7
@@ -136,7 +141,7 @@ Partial Class Form1
 		' 
 		' Button4
 		' 
-		Button4.Location = New Point(610, 529)
+		Button4.Location = New Point(565, 500)
 		Button4.Name = "Button4"
 		Button4.Size = New Size(112, 29)
 		Button4.TabIndex = 8
@@ -182,25 +187,15 @@ Partial Class Form1
 		GroupBox1.TabStop = False
 		GroupBox1.Text = "GroupBox1"
 		' 
-		' CheckBox1
+		' CheckBox4
 		' 
-		CheckBox1.AutoSize = True
-		CheckBox1.Location = New Point(6, 23)
-		CheckBox1.Name = "CheckBox1"
-		CheckBox1.Size = New Size(133, 24)
-		CheckBox1.TabIndex = 0
-		CheckBox1.Text = "Seeking Venues"
-		CheckBox1.UseVisualStyleBackColor = True
-		' 
-		' CheckBox2
-		' 
-		CheckBox2.AutoSize = True
-		CheckBox2.Location = New Point(6, 53)
-		CheckBox2.Name = "CheckBox2"
-		CheckBox2.Size = New Size(128, 24)
-		CheckBox2.TabIndex = 1
-		CheckBox2.Text = "Seeking Artists"
-		CheckBox2.UseVisualStyleBackColor = True
+		CheckBox4.AutoSize = True
+		CheckBox4.Location = New Point(6, 113)
+		CheckBox4.Name = "CheckBox4"
+		CheckBox4.Size = New Size(128, 24)
+		CheckBox4.TabIndex = 3
+		CheckBox4.Text = "Booked Events"
+		CheckBox4.UseVisualStyleBackColor = True
 		' 
 		' CheckBox3
 		' 
@@ -212,21 +207,70 @@ Partial Class Form1
 		CheckBox3.Text = "Seeking Vendors"
 		CheckBox3.UseVisualStyleBackColor = True
 		' 
-		' CheckBox4
+		' CheckBox2
 		' 
-		CheckBox4.AutoSize = True
-		CheckBox4.Location = New Point(6, 113)
-		CheckBox4.Name = "CheckBox4"
-		CheckBox4.Size = New Size(128, 24)
-		CheckBox4.TabIndex = 3
-		CheckBox4.Text = "Booked Events"
-		CheckBox4.UseVisualStyleBackColor = True
+		CheckBox2.AutoSize = True
+		CheckBox2.Location = New Point(6, 53)
+		CheckBox2.Name = "CheckBox2"
+		CheckBox2.Size = New Size(128, 24)
+		CheckBox2.TabIndex = 1
+		CheckBox2.Text = "Seeking Artists"
+		CheckBox2.UseVisualStyleBackColor = True
+		' 
+		' CheckBox1
+		' 
+		CheckBox1.AutoSize = True
+		CheckBox1.Location = New Point(6, 23)
+		CheckBox1.Name = "CheckBox1"
+		CheckBox1.Size = New Size(133, 24)
+		CheckBox1.TabIndex = 0
+		CheckBox1.Text = "Seeking Venues"
+		CheckBox1.UseVisualStyleBackColor = True
+		' 
+		' GroupBox2
+		' 
+		GroupBox2.Controls.Add(TextBox3)
+		GroupBox2.Controls.Add(Button7)
+		GroupBox2.Controls.Add(Button6)
+		GroupBox2.Location = New Point(93, 176)
+		GroupBox2.Name = "GroupBox2"
+		GroupBox2.Size = New Size(177, 137)
+		GroupBox2.TabIndex = 13
+		GroupBox2.TabStop = False
+		GroupBox2.Text = "FakeEvent1"
+		' 
+		' Button6
+		' 
+		Button6.Location = New Point(6, 98)
+		Button6.Name = "Button6"
+		Button6.Size = New Size(71, 29)
+		Button6.TabIndex = 0
+		Button6.Text = "Details"
+		Button6.UseVisualStyleBackColor = True
+		' 
+		' Button7
+		' 
+		Button7.Location = New Point(91, 98)
+		Button7.Name = "Button7"
+		Button7.Size = New Size(71, 29)
+		Button7.TabIndex = 1
+		Button7.Text = "Book"
+		Button7.UseVisualStyleBackColor = True
+		' 
+		' TextBox3
+		' 
+		TextBox3.Location = New Point(3, 23)
+		TextBox3.Name = "TextBox3"
+		TextBox3.Size = New Size(168, 27)
+		TextBox3.TabIndex = 2
+		TextBox3.Text = "Time/Location/Cost"
 		' 
 		' Form1
 		' 
 		AutoScaleDimensions = New SizeF(8F, 20F)
 		AutoScaleMode = AutoScaleMode.Font
 		ClientSize = New Size(964, 631)
+		Controls.Add(GroupBox2)
 		Controls.Add(GroupBox1)
 		Controls.Add(TextBox4)
 		Controls.Add(Button5)
@@ -243,6 +287,8 @@ Partial Class Form1
 		CType(DataGridView1, ComponentModel.ISupportInitialize).EndInit()
 		GroupBox1.ResumeLayout(False)
 		GroupBox1.PerformLayout()
+		GroupBox2.ResumeLayout(False)
+		GroupBox2.PerformLayout()
 		ResumeLayout(False)
 		PerformLayout()
 	End Sub
@@ -266,5 +312,9 @@ Partial Class Form1
 	Friend WithEvents CheckBox3 As CheckBox
 	Friend WithEvents CheckBox2 As CheckBox
 	Friend WithEvents CheckBox1 As CheckBox
+	Friend WithEvents GroupBox2 As GroupBox
+	Friend WithEvents TextBox3 As TextBox
+	Friend WithEvents Button7 As Button
+	Friend WithEvents Button6 As Button
 
 End Class

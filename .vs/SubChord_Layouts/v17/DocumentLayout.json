@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\notap\\source\\repos\\SubChord_Layouts\\",
+  "WorkspaceRootPath": "C:\\Users\\notap\\Documents\\GitHub\\SubChord_Layouts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4FBE108-5C7B-4724-8544-7B33FA1A4AB3}|SubChord_Layouts\\SubChord_Layouts.vbproj|c:\\users\\notap\\source\\repos\\subchord_layouts\\subchord_layouts\\home _signedin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{B4FBE108-5C7B-4724-8544-7B33FA1A4AB3}|SubChord_Layouts\\SubChord_Layouts.vbproj|c:\\users\\notap\\documents\\github\\subchord_layouts\\subchord_layouts\\home _signedin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{B4FBE108-5C7B-4724-8544-7B33FA1A4AB3}|SubChord_Layouts\\SubChord_Layouts.vbproj|solutionrelative:subchord_layouts\\home _signedin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4FBE108-5C7B-4724-8544-7B33FA1A4AB3}|SubChord_Layouts\\SubChord_Layouts.vbproj|c:\\users\\notap\\source\\repos\\subchord_layouts\\subchord_layouts\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{B4FBE108-5C7B-4724-8544-7B33FA1A4AB3}|SubChord_Layouts\\SubChord_Layouts.vbproj|solutionrelative:subchord_layouts\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{B4FBE108-5C7B-4724-8544-7B33FA1A4AB3}|SubChord_Layouts\\SubChord_Layouts.vbproj|c:\\users\\notap\\documents\\github\\subchord_layouts\\subchord_layouts\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B4FBE108-5C7B-4724-8544-7B33FA1A4AB3}|SubChord_Layouts\\SubChord_Layouts.vbproj|solutionrelative:subchord_layouts\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4FBE108-5C7B-4724-8544-7B33FA1A4AB3}|SubChord_Layouts\\SubChord_Layouts.vbproj|c:\\users\\notap\\source\\repos\\subchord_layouts\\subchord_layouts\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{B4FBE108-5C7B-4724-8544-7B33FA1A4AB3}|SubChord_Layouts\\SubChord_Layouts.vbproj|solutionrelative:subchord_layouts\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{B4FBE108-5C7B-4724-8544-7B33FA1A4AB3}|SubChord_Layouts\\SubChord_Layouts.vbproj|c:\\users\\notap\\documents\\github\\subchord_layouts\\subchord_layouts\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B4FBE108-5C7B-4724-8544-7B33FA1A4AB3}|SubChord_Layouts\\SubChord_Layouts.vbproj|solutionrelative:subchord_layouts\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Home _SignedIn.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\notap\\source\\repos\\SubChord_Layouts\\SubChord_Layouts\\Home _SignedIn.vb",
+              "DocumentMoniker": "C:\\Users\\notap\\Documents\\GitHub\\SubChord_Layouts\\SubChord_Layouts\\Home _SignedIn.vb",
               "RelativeDocumentMoniker": "SubChord_Layouts\\Home _SignedIn.vb",
-              "ToolTip": "C:\\Users\\notap\\source\\repos\\SubChord_Layouts\\SubChord_Layouts\\Home _SignedIn.vb [Design]",
+              "ToolTip": "C:\\Users\\notap\\Documents\\GitHub\\SubChord_Layouts\\SubChord_Layouts\\Home _SignedIn.vb [Design]",
               "RelativeToolTip": "SubChord_Layouts\\Home _SignedIn.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-10-08T12:43:40.864Z",
@@ -38,24 +38,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Home.vb",
-              "DocumentMoniker": "C:\\Users\\notap\\source\\repos\\SubChord_Layouts\\SubChord_Layouts\\Home.vb",
+              "DocumentMoniker": "C:\\Users\\notap\\Documents\\GitHub\\SubChord_Layouts\\SubChord_Layouts\\Home.vb",
               "RelativeDocumentMoniker": "SubChord_Layouts\\Home.vb",
-              "ToolTip": "C:\\Users\\notap\\source\\repos\\SubChord_Layouts\\SubChord_Layouts\\Home.vb",
+              "ToolTip": "C:\\Users\\notap\\Documents\\GitHub\\SubChord_Layouts\\SubChord_Layouts\\Home.vb",
               "RelativeToolTip": "SubChord_Layouts\\Home.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-08T12:41:11.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T12:41:11.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Home.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\notap\\source\\repos\\SubChord_Layouts\\SubChord_Layouts\\Home.vb",
+              "DocumentMoniker": "C:\\Users\\notap\\Documents\\GitHub\\SubChord_Layouts\\SubChord_Layouts\\Home.vb",
               "RelativeDocumentMoniker": "SubChord_Layouts\\Home.vb",
-              "ToolTip": "C:\\Users\\notap\\source\\repos\\SubChord_Layouts\\SubChord_Layouts\\Home.vb [Design]",
+              "ToolTip": "C:\\Users\\notap\\Documents\\GitHub\\SubChord_Layouts\\SubChord_Layouts\\Home.vb [Design]",
               "RelativeToolTip": "SubChord_Layouts\\Home.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-10-07T01:55:38.627Z",
